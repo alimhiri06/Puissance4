@@ -1,0 +1,7 @@
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\bin\Debug\Puissance_4_Ali_Mhiri.exe.config
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\obj\Debug\Puissance_4_Ali_Mhiri.csprojResolveAssemblyReference.cache
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\bin\Debug\Puissance_4_Ali_Mhiri.exe
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\bin\Debug\Puissance_4_Ali_Mhiri.pdb
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\bin\Debug\Puissance4_GUI.dll
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\obj\Debug\Puissance_4_Ali_Mhiri.exe
+C:\Users\ALI\Desktop\Puissance_4_Ali_Mhiri\Puissance_4_Ali_Mhiri\obj\Debug\Puissance_4_Ali_Mhiri.pdb
